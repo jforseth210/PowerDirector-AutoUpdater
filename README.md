@@ -9,7 +9,13 @@ If you create a repo for your PowerDirector project, running a git command that 
 This script could also be used to detect changes on shared network drives or the like.
 
 _Disclaimers_
+
 I am an amatuer. 
 This was designed to be a solution for my specific version and configuration. It may require some tweaking to make it work for you. 
 This software comes with absolutely NO WARRANTY. It uses the GUI automation tool pyautogui and may have unintended side effects. If you experience issues, feel free to add an issue or create a pull request.
 Don't trust this script. It works for me, but I can't garauntee it will for you. 
+
+Planned features (stuff I might add I if get a chance):
+-Auto commit upon save. 
+-Exe file
+-Simple gui
