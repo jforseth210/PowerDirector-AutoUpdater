@@ -15,6 +15,8 @@ This was designed to be a solution for my specific version and configuration. It
 This software comes with absolutely NO WARRANTY. It uses the GUI automation tool pyautogui and may have unintended side effects. If you experience issues, feel free to add an issue or create a pull request.
 Don't trust this script. It works for me, but I can't garauntee it will for you. 
 
+I am in no way associated with Cyberlink or PowerDirector nor do I own any of the right associated with said software. 
+
 Planned features (stuff I might add I if get a chance):
 
 -Auto commit upon save. 
