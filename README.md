@@ -16,6 +16,9 @@ This software comes with absolutely NO WARRANTY. It uses the GUI automation tool
 Don't trust this script. It works for me, but I can't garauntee it will for you. 
 
 Planned features (stuff I might add I if get a chance):
+
 -Auto commit upon save. 
+
 -Exe file
+
 -Simple gui
